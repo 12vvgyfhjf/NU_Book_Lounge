@@ -1,3 +1,4 @@
 Flask==2.2.5
 mysql-connector-python==8.0.33
-echo "pytest==6.2.5" >> requirements.txt
+pytest==6.2.5
+
